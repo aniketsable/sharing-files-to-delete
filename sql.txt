@@ -38,3 +38,5 @@ SELECT * FROM COMPANY;
 
 -- Update the address for ID 6
 UPDATE COMPANY SET ADDRESS = 'Texas' WHERE ID = 6;
+update company set
+
